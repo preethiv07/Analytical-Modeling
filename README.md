@@ -1,1 +1,1 @@
-# Analytical-Modelling
+# Analytical-Modeling
